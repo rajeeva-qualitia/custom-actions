@@ -29,10 +29,10 @@ what the action does and in what scenarios it can be used.
 
 
 # How to use the Repository?
-- You can navigate and search for the custom action that satisfy your scenario.
+- You can navigate and search for the custom action that satisfy your scenario or browse through the list of actions here.
 - If the action is exactly how you need it you can add it to your projects 
 through Qualitia and paste the code snippet in eclipse and execute it.
-- If the action is not an exact copy of what you need then you can copy it in 
+- If the action is not an exact copy of what you need then you can clone it in 
 your project and do the minor changes needed for it to fit your need.
 
 
